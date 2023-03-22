@@ -32,12 +32,21 @@ the system itself. JARVIS also have ubiquitous connectivity through Wi-Fi or LAN
 connection, enabling distributed applications that can leverage other APIs exposed 
 on the web without a need to store them locally.
 Virtual assistants must provide a wide variety of services. These include:
+
 • Providing information such as weather, facts from e.g. Wikipedia etc.
+
 • Set an alarm or make to-do lists and shopping lists.
+
 • Remind you of birthdays and meetings.
+
 • Play music for you from Youtube or other applications.
+
 • Read daily news headlines.
+
 • Sending messages on whatsapp.
+
 • Doing mathematical calculations.
+
 • Play videos on youtube and downloading youtube videos.
+
 • Controlling the system like Shutdown, Restart, Volume Up/Down etc
