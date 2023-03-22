@@ -1,0 +1,6 @@
+client_id=c0eedfa6004146bba2f05325777ebb56
+client_secret=e9389182d57c4647847b2e2031465e88
+device_name=sonia's window
+redirect_url=https://twosome.in/callback/
+username=31jfzor3gwltlhfchh5f6wikvxei
+scope=user-read-private user-read-playback-state user-modify-playback-state
