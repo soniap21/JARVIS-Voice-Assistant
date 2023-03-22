@@ -1,4 +1,4 @@
-# project
+# JARVIS
 JARVIS - Voice Assistant 
 
 It was an interesting task to make my own assistant. It became easier to send 
